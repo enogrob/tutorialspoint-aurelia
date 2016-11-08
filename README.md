@@ -16,9 +16,9 @@ This is to grasp rapidly the language and its concepts.
 #### Topics
 ```
 Aurelia Tutorial
-[ ] Home
-[ ] Overview
-[ ] Environment Setup
+[x] Home
+[x] Overview
+[x] Environment Setup
 [ ] First Application
 [ ] Components
 [ ] Component Lifecycle
