@@ -5,7 +5,7 @@ Solution Integrator Experienced - Certified by Ericsson
 ```
 # Tutorialspoint Aurelia
 
-![ebook cover](images/tutorialspoint-aurelia)
+![ebook cover](images/tutorialspoint-aurelia.png)
 
 **About This Tutorial**
 
