@@ -19,9 +19,9 @@ Aurelia Tutorial
 [x] Home
 [x] Overview
 [x] Environment Setup
-[ ] First Application
-[ ] Components
-[ ] Component Lifecycle
+[x] First Application
+[x] Components
+[x] Component Lifecycle
 [ ] Custom Elements
 [ ] Dependency Injections
 [ ] Configuration
